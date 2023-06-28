@@ -14,6 +14,12 @@ body {
     justify-content: space-between;
 }
 
+.header-logo img {
+    width: 84px;
+    height: 84px;
+    padding-left: 16px;
+}
+
 .header-links {
     display: flex;
     flex-direction: row;
