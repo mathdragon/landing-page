@@ -1,0 +1,21 @@
+body {
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.header {
+    background-color: #1F2937;
+    color:#F9FAF8;
+}
+
+.header-logo {
+    font-size: 24px;
+}
+
+.header-links {
+    font-size: 18px;
+    display: flex;
+    flex-direction: row;
+}
